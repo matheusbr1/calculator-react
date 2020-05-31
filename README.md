@@ -1,6 +1,13 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
 
-The calculator
+
+## That's the calculator
+
+Avaliable in this link: https://calculator-react-app-test.herokuapp.com/
+
+<br />
+
+![calculator](https://user-images.githubusercontent.com/28275815/83342250-857b6380-a2c3-11ea-9d22-f741b4b5f718.png)
 
 ## Available Scripts
 
