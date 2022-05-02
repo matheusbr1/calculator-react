@@ -4,6 +4,8 @@ Avaliable in this link: https://calculator-react-app-test.herokuapp.com/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
 
+This is my first react project.
+
 ![calculator](https://user-images.githubusercontent.com/28275815/83342250-857b6380-a2c3-11ea-9d22-f741b4b5f718.png)
 
 ## Available Scripts
